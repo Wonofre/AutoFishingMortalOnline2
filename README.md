@@ -23,6 +23,3 @@ This script runs the real-time fishing macro. It listens for the specific "fish 
 "Teste de qualidade dos dados de treino.py"
 This script evaluates the quality of the training data and the machine learning model. Use this script to get an idea of how to fine-tune the model parameters.
 
-Contributing
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
