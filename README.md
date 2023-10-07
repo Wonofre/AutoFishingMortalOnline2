@@ -1,5 +1,5 @@
 # AutoFishingMortalOnline2
-Fishing automation in Mortal Online 2. Capturing, training and processing real time audio with Ml.
+Fishing automation in Mortal Online 2. Capturing, training and processing real time audio with ML.
 
 Overview
 Welcome to one of my first projects! Initially, I created this tool for my personal use in Mortal Online 2, but feel free to try it out for yourself. This project aims to assist with fishing activities in the game. Utilizing machine learning techniques and real-time audio processing, the program listens for a specific sound event that occurs when a fish "bites the bait." When this event is detected, the script triggers a keypress to "reel in" the fish. Please note that this project does not fully automate the fishing process; rather, it serves as an aid for more efficient fishing.
