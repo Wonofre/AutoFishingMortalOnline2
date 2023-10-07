@@ -7,8 +7,8 @@ Welcome to one of my first projects! Initially, I created this tool for my perso
 Note: For optimal performance, the game's sound must be set to a high volume.
 
 Installation Steps
-Install Required Python Packages
-Be sure of the paths.
+Install Required Python Packages.
+Be sure about the paths.
 
 Game Settings:
 Make sure the game's sound is set to a high volume for optimal performance.
